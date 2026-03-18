@@ -284,8 +284,15 @@ span{
     width: 50vh;
     border-radius: 5px;
     margin-bottom: 5px;
+    transition: 0.6s;
+    cursor: zoom-in;
 }
-
+.projects img:hover{
+    box-shadow: 0 0 25px #007F6D,
+    0 0 35px #007F6D,
+    0 0 35px #007F6D;
+    transform: scale(3.2);
+}
 
 
 
