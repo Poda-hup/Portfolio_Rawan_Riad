@@ -11,7 +11,7 @@ window.onscroll = () =>{
     navbar.classList.remove('active')
 }
 const typed = new Typed('.multiple-text', {
-    strings: ['UI UX Designer','Web Designer','Frontend Developer','Data Analysis'],
+    strings: ['UI UX Designer','Web Designer'],
     typeSpeed: 80,
     backSpedd:80,
     backDelay:1200,
